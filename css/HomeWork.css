@@ -5,11 +5,11 @@
     box-sizing: border-box;
     font-family: 'Rubik', sans-serif;
 }
-/* .section{
+ .section{
     width: 500px;
     min-width: 100vh;
     padding: 100px;
-} */
+} 
 .logo{
     width: 90px;
     height: 90px;
